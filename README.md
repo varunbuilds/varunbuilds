@@ -7,7 +7,7 @@ I am a fourth-year B.Tech in Information Technology student at NMIMS MPSTME, pas
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Ai Automation with Python
+- 🤖 Exploring AI & Automation
 - 💻 Upgrading development stack day by day
 
 Check out my [coding portfolio!](https://varunrewadi.com)
