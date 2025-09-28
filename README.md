@@ -1,6 +1,6 @@
 ![me](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi 👋 I'm Varun Rewadi</h1>
+<h1 align="center">Hi 👋 I'm Varun</h1>
 
 # 💫 About Me:
 I am a fourth-year B.Tech in Information Technology student at NMIMS MPSTME, passionate about exploring the realms of coding and building robust applications.
